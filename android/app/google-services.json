@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280147777176",
+    "project_id": "flutter-plant-1c8af",
+    "storage_bucket": "flutter-plant-1c8af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280147777176:android:dacba34b5e9dfda33022ed",
+        "android_client_info": {
+          "package_name": "com.example.plant_disease_detector_cad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280147777176-o0h1lnnp43ess2s66kodkht48qg3edk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwDuPYnPT3-0U_WgCHW9TaVEx3fWpcNV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280147777176-o0h1lnnp43ess2s66kodkht48qg3edk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
